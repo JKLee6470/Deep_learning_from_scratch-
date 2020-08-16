@@ -1,4 +1,5 @@
 # 학습을 진행하지 않고, 단순 추론이 잘 작동하는지 시험. 
+
 import sys, os
 sys.path.append('D:\\DEEP_LEARNING_FROM_SCRATCH')
 from mnist_data.mnist import load_mnist
