@@ -16,3 +16,4 @@ for i in range(0, len(x), batch_size):
     accuracy_cnt += np.sum(p == t[i:i+batch_size])
 print(accuracy_cnt)
 print(accuracy_cnt/len(x))
+#asd

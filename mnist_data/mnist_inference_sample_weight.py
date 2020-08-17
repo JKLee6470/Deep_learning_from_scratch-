@@ -2,7 +2,7 @@
 
 import sys, os
 sys.path.append('D:\\DEEP_LEARNING_FROM_SCRATCH')
-from mnist_data.mnist import load_mnist
+from mnist_data.mnist import *
 import numpy as np
 import pickle
 
